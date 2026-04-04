@@ -124,12 +124,15 @@ Desse modo, conclui-se que o MVP apresenta indícios favoráveis de viabilidade 
 ## **Mapeamento de Canais**
 
 A eficácia do sistema de inspeção visual automatizada depende da escolha de canais que facilitem não apenas a venda, mas também a demonstração técnica e o suporte contínuo. Com base no refinamento do Business Model Canvas (BMC), a equipa estruturou a distribuição do MVP através de cinco canais estratégicos:
-A. Canais Digitais e Conveniência (B2C/Varejo)
+**A. Canais Digitais e Conveniência (B2C/Varejo)**
+
 Marketplace Industrial: Este canal funcionará como um ambiente virtual e digital contínuo, focado na conveniência para pequenos produtores e clientes de varejo. Através de plataformas de e-commerce especializadas, o cliente poderá adquirir os Kits de Upgrade de forma direta e autónoma.
 Demonstrações Piloto e Webinars: Utilização de conteúdos digitais para apresentar a "ciência da medição" e a facilidade de montagem do hardware modular, reduzindo a barreira de entrada para quem ainda utiliza processos manuais.
 **B. Canais de Relacionamento e Parcerias (B2B)**
+
 Feiras e Eventos Técnicos: Participação em eventos físicos e temporários focados em networking e experiência de marca. Estes espaços são vitais para o mercado B2B (Empresa para Empresa), permitindo que diretores e gerentes de produção interajam com o hardware em tempo real.
 Parcerias com Integradores de Sistemas: Este canal foca-se na escala industrial. Através de parcerias com empresas de automação já estabelecidas, o nosso MVP pode ser integrado como um módulo complementar em linhas de produção complexas, aproveitando a infraestrutura de vendas e suporte desses parceiros.
 Incubadoras e Ecossistema PUC-SP: Utilização do ambiente académico e de inovação para validar o produto junto de parceiros tecnológicos e outros investigadores, garantindo que o sistema acompanhe a evolução da Indústria 4.0.
 **C. Suporte e Pós-Venda**
+
 O relacionamento não termina na entrega do hardware. Conforme estabelecido no modelo de receitas, o canal de suporte técnico mensal garante a retenção do cliente e a atualização contínua dos algoritmos de IA, transformando o canal de comunicação num ativo de fidelização.
