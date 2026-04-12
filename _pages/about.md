@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# Produto que ajudam você a entrar no portal da Indústria 4.0
+# Produto que ajudam você a entrar no portal da Indústria 4.0!
 
  -  **Inspeção visual automatizada: adeus à falha humana.**
  -  **Sistema modular e de baixa manutenção. Feito para durar.**
@@ -16,7 +16,7 @@ redirect_from:
  
 ![enter image description here](https://cdn.discordapp.com/attachments/1490350702822686742/1492719071622332426/WhatsApp_Image_2026-04-11_at_11.52.12_PM.jpeg?ex=69dc5a78&is=69db08f8&hm=1435cc33bb9ce6d14579daf2b94a680e46b9676d71f446e7467478fca5ee6b21&)
 
-# Proporciona-lhe incríveis benefícios econômicos 
+# Proporciona-lhe incríveis benefícios econômicos!
 
 
  -  **RECUPERE SEU INVESTIMENTO EM 5 MESES. Eficiência que se paga.**
