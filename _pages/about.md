@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Inovação ao alcance da sua linha de produção nosso produto ajudam você a entrar no portal da Indústria 4.0!
+title: "Inovação ao alcance da sua linha de produção, nosso produto ajudam você a entrar no portal da Indústria 4.0!
 "
 author_profile: true
 redirect_from: 
