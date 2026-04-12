@@ -23,7 +23,7 @@ A imagem a seguir é uma representação conceitual do produto.
 
 ## Princípio de funcionamento
 
-> **CÂMERA + SENSOR + ANÀLISE + ATUADOR**
+> **CÂMERA + SENSOR + ANÀLISE + CLASSIFICAÇÃO**
 
  **1. A esteira move uma peça por vez.**
  
