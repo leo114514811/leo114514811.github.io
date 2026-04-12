@@ -46,7 +46,11 @@ A imagem a seguir é uma representação conceitual do produto.
  - **Detecção rápida de falhas.**
  - **Decisão imediata:** aprova ou reprova.
  - **O atuador consegue realizar a tarefa de triagem de peças com precisão e eficiência**
- - 
+
+   
+   ![enter image description here](https://cdn.discordapp.com/attachments/1490350702822686742/1492717011967414312/WhatsApp_Image_2026-04-11_at_11.43.01_PM.jpeg?ex=69dc588c&is=69db070c&hm=df6ab0686eee69524012b7aa370fecb465f14e8a795b67c0d2defaa18046af21&)
+
+
 > **AUTOMAÇÃO COM VIABILIDADE**
 
  - **Automatiza tarefas:** libera a equipe para atividades mais estratégicas.
