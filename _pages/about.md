@@ -58,7 +58,7 @@ A imagem a seguir é uma representação conceitual do produto.
  - **Metalúrgicos**
  - **Eletrônico**
  - **Alimentos**
-
+ - **Inspecione quanto a riscos, peças faltantes, coloração irregular ou desvios dimensionais.**
 
 Abaixo estão nosso Instagram, questionário e e-mail. Seu feedback é bem-vindo.
 
