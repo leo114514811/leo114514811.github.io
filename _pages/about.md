@@ -24,7 +24,9 @@ redirect_from:
 > **CÂMERA + SENSOR + ANÀLISE**
 
  **1. A esteira move uma peça por vez.**
+ 
  **2. A câmera captura a imagem.**
+ 
  **3. O sensor inteligente identifica defeitos.**
 
 ## Desempenho prática
@@ -55,7 +57,10 @@ redirect_from:
 A imagem a seguir é uma representação conceitual do produto.
 ![enter image description here](https://cdn.discordapp.com/attachments/1490350702822686742/1492701793488994314/WhatsApp_Image_2026-04-11_at_10.38.05_PM.jpeg?ex=69dc4a60&is=69daf8e0&hm=074188ce2c89515da7a87458d802bc91cd5f213218cc08407d6bf70d2d3a7cc1&)
 Abaixo estão nosso Instagram, questionário e e-mail. Seu feedback é bem-vindo.
+
 Nossos email: smartinsperct8@gmail.com
+
 Instagram: [**(Clique aqui para vistar nosso Instagram)**](https://www.instagram.com/smartinspectbrasil/)
+
 Questionário: [**(Clique aqui para participar do questionário)**](https://mvpfeedback-bmmkygnh.manus.space)
 
