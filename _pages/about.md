@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 # Produto que ajudam você a entrar no portal da Indústria 4.0
 
  -  **Inspeção visual automatizada: adeus à falha humana.**
