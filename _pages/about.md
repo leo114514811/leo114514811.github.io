@@ -31,7 +31,7 @@ A imagem a seguir é uma representação conceitual do produto.
  
  **3. O sensor inteligente identifica defeitos.**
  
- **4. O atuador clsssifica as peças rapidamente.**
+ **4. O atuador classifica as peças rapidamente.**
 
 ## Desempenho prática
 
