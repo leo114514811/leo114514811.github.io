@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Inovação ao alcance da sua linha de produção
+title: "Inovação ao alcance da sua linha de produção nosso produto ajudam você a entrar no portal da Indústria 4.0!
 "
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-# Produto que ajudam você a entrar no portal da Indústria 4.0!
+
 
  -  **Inspeção visual automatizada: adeus à falha humana.**
  -  **Sistema modular e de baixa manutenção. Feito para durar.**
