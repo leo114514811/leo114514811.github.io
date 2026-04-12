@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Inovação ao alcance da sua linha de produção"
+title: "Inovação ao alcance da sua linha de produção
+"
 author_profile: true
 redirect_from: 
   - /about/
