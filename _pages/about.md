@@ -7,19 +7,20 @@ redirect_from:
   - /about.html
 ---
 ## A porta de entrada para a Indústria 4.0
+![enter image description here](https://cdn.discordapp.com/attachments/1490350702822686742/1492719071622332426/WhatsApp_Image_2026-04-11_at_11.52.12_PM.jpeg?ex=69dc5a78&is=69db08f8&hm=1435cc33bb9ce6d14579daf2b94a680e46b9676d71f446e7467478fca5ee6b21&)
 
  -  **Inspeção visual automatizada: adeus à falha humana.**
  -  **Sistema modular e de baixa manutenção. Feito para durar.**
  -  **Reduza desperdícios e maximize seus lucros hoje mesmo.**
  
-A imagem a seguir é uma representação conceitual do produto.
-![enter image description here](https://cdn.discordapp.com/attachments/1490350702822686742/1492701793488994314/WhatsApp_Image_2026-04-11_at_10.38.05_PM.jpeg?ex=69dc4a60&is=69daf8e0&hm=074188ce2c89515da7a87458d802bc91cd5f213218cc08407d6bf70d2d3a7cc1&)
 
 ## Benefícios econômicos incríveis
 
  -  **Payback em apenas 5 meses. Eficiência que se paga.**
  -  **Retorno sobre Investimento de 140% no primeiro ano.**
  -  **Qualidade industrial, custo de startup.**
+
+   ![enter image description here](https://cdn.discordapp.com/attachments/1490350702822686742/1492719097639866528/WhatsApp_Image_2026-04-11_at_11.52.10_PM.jpeg?ex=69dc5a7e&is=69db08fe&hm=dab8516c8b5cdde022e9f9cd6d716694137c59c92a9c42e6df7ebf8e20830775&)
 
 ## Princípio de funcionamento
 
@@ -32,6 +33,10 @@ A imagem a seguir é uma representação conceitual do produto.
  **3. O sensor inteligente identifica defeitos.**
  
  **4. O atuador classifica as peças rapidamente.**
+
+ A imagem a seguir é uma representação conceitual do produto.
+![enter image description here](https://cdn.discordapp.com/attachments/1490350702822686742/1492701793488994314/WhatsApp_Image_2026-04-11_at_10.38.05_PM.jpeg?ex=69dc4a60&is=69daf8e0&hm=074188ce2c89515da7a87458d802bc91cd5f213218cc08407d6bf70d2d3a7cc1&)
+
 
 ## Desempenho prática
 
